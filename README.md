@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+💻 i want to be android developer
+##How to reach me? 🤔
+dlrkdmsdkdld email : dlrkdmsdkdld@naver.com
 <!--
 **dlrkdmsdkdld/dlrkdmsdkdld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
