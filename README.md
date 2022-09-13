@@ -1,6 +1,6 @@
-👋### Hi there 👋
-💻 i want to be android developer
-🤔### How to reach me? 🤔
+👋### Hi there 👋  
+💻 i want to be android developer  
+🤔### How to reach me? 🤔  
 email : dlrkdmsdkdld@naver.com  
 number : 010 - 9912 - 5419  
 
