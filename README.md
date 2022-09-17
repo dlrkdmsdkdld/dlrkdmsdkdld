@@ -8,7 +8,7 @@ number : 010 - 9912 - 5419
 🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
 🎰 (2022.06 ) Engineer Information Processing acquisition  
 🚀 (2022.09 ~ 2022.11) - CMC 11th android challenger    
-🎓 (2017.03 ~ ) Attended Department of Computer Engineering  
+🎓 (2017.03 ~ ) [TUKorea] Attended Department of Computer Engineering  
 
 
 <!--
