@@ -9,7 +9,7 @@ number : 010 - 9912 - 5419
 🎰 (2022.06 ) Engineer Information Processing acquisition  
 🚀 (2022.09 ~ 2022.11) - CMC 11th android challenger and get top prize   
 🎓 (2017.03 ~ 2022.02) [TUKorea] Attended Department of Computer Engineering  
-🧑‍💻 (2023.01 ~ ing ) CNRS Android Developer  
+🧑‍💻 (2023.01 ~ ing ) Wordbit , Bitbible Android Developer  
 
 
 <!--
