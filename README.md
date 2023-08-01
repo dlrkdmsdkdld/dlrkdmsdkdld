@@ -2,7 +2,6 @@
 💻 i want to be android developer  
 ## How to reach me? 🤔  
 email : dlrkdmsdkdld@naver.com  
-number : 010 - 9912 - 5419  
 
 ## Timeline
 🧑‍💻 (2021.12 ~ 2022.02) datastudio intern  
