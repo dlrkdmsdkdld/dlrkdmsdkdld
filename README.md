@@ -9,6 +9,7 @@ email : dlrkdmsdkdld@naver.com
 🚀 (2022.09 ~ 2022.11) - CMC 11th android challenger and get top prize   
 🎓 (2017.03 ~ 2022.02) [TUKorea] Attended Department of Computer Engineering  
 🧑‍💻 (2023.01 ~ ing ) Wordbit , Bitbible Android Developer  
+🚀 (2023.12 ~ 2024.03) - CMC 14th android challenger
 
 
 <!--
